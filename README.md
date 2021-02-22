@@ -1,2 +1,2 @@
-# Gitting Some Practice 
+# Projet Dut semestre 1
 ## Thomas Chrétien-Dominé
